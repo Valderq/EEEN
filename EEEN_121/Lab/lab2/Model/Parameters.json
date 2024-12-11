@@ -1,0 +1,25 @@
+{
+    "parameters": [
+        {
+            "expr": "5",
+            "name": "a",
+            "value": "5"
+        },
+        {
+            "expr": "50",
+            "name": "l",
+            "value": "50"
+        },
+        {
+            "expr": "2",
+            "name": "g",
+            "value": "2"
+        },
+        {
+            "expr": "1.221",
+            "name": "mini",
+            "value": "1.221"
+        }
+    ],
+    "version": 1
+}

@@ -1,0 +1,146 @@
+[00:00:00]That's the result of change A Grambling um. So today's talk will be about the impacts of generative AI in. Higher education? And actually? Beyond higher. Education.
+[00:00:00]这是改变的结果。所以今天的演讲将是关于生成式人工智能的影响。高等教育?实际上呢?除了更高。教育。
+[00:00:13]So the Ambassador John C Ai in education will be both beneficial and problematic, as we have sort of acetate in. The literature. And people's.
+[00:00:13]因此，约翰·艾大使在教育方面的工作将是有益的，也会带来问题，因为我们有一些醋酸盐。的文学。和人民。
+[00:00:24]Anecdotal um, informal or more formalized experiences so far. However, the technology so new that the full impact um, won't be understood, or won't be fully understood for some? Time to? Come.
+[00:00:24]轶事，非正式的或更正式的经历。然而，这项技术太新了，以至于它的全部影响还没有被理解，或者对一些人来说还没有完全理解?时间吗?来了。
+[00:00:40]Moreover, thinking about beyond education, we can only speculate on its full impact, um and that is.
+[00:00:40]此外，考虑到教育之外的问题，我们只能推测它的全部影响，那就是。
+[00:00:48]Beyond education in the workplace is the actual focus um okay so thinking about um the impacts within higher education Just to summarize.
+[00:00:48]在工作场所的教育之外才是真正的重点好的，想想高等教育的影响总结一下。
+[00:01:01]At present, there are many positives for both teachers and students, it can support learning and we can create materials that. Can help with. Assessing. Students work.
+[00:01:01]目前，它对老师和学生都有很多积极的方面，它可以支持学习，我们可以创建一些材料。可以帮上忙。评估。学生工作。
+[00:01:11]Um it can provide information a range of topics saying for students. It can provide lots of information on a range of. Topics um. Including academic sources.
+[00:01:11]它可以为学生提供一系列话题的信息。它可以提供一系列的信息。话题哦。包括学术来源。
+[00:01:21]It can summarize text from um large volumes of um the reading material um. It can respond. To questions. That students pose.
+[00:01:21]它可以从大量的阅读材料中总结文本。它可以做出反应。到的问题。学生摆姿势。
+[00:01:31]However, the problems are, firstly, when the technologies used to form tasks that could be deemed unethical, e.g., writing parts of your assignment or writing the whole of your assignment.
+[00:01:31]然而，问题是，首先，当技术被用来形成任务可能被认为是不道德的，例如，写你的作业的一部分或写你的整个作业。
+[00:01:45]Or breaching copyright rules when you try and summarize um, attacks, um from an academic source.
+[00:01:45]或者当你试图总结来自学术来源的攻击时违反版权规则。
+[00:01:55]Um another issue that's actually really important is that when students ask questions or, or ask the, the, the, the, the dentary. AI, tool? To. Provide, a? Response.
+[00:01:55]另一个很重要的问题是当学生问问题的时候，或者问，the, the, the, the, the, dental。AI工具?出现。提供一个吗?响应。
+[00:02:09]These are not always correct and need to be fat checked, because beyond being incorrect or in false information, it can also be very biased.
+[00:02:09]这些并不总是正确的，需要仔细检查，因为除了不正确或虚假信息之外，它还可能非常有偏见。
+[00:02:19]Um so e.g. for for that reason both teachers and students um they could be if they don't do this If they're not in the habit of doing this and they take it face value, they could be working with misinformation.
+[00:02:19]因此，由于这个原因，老师和学生都可能如果他们不这样做，如果他们没有这样做的习惯，他们只看表面，他们可能会处理错误的信息。
+[00:02:34]And skewed information um. And finally, the risk of the misuse of personal. Data or. Intellectual. Property.
+[00:02:34]还有扭曲的信息。最后是滥用个人信息的风险。数据或。知识分子。财产。
+[00:02:45]Um so this technology um the, these are the issues that perhaps you know, um, we need to explore more.
+[00:02:45]所以这项技术，这些问题也许你知道，我们需要进一步探索。
+[00:02:55]Um and then there's also the fact that it's not free. Nothing is free in life, so just as with social media, you're? Using? All these? Different? Platforms.
+[00:02:55]还有一个事实是，它不是免费的。生活中没有什么是免费的，所以就像社交媒体一样，你是?使用?所有这些吗?不同吗?平台。
+[00:03:07]But again um with with genetic AI the more powerful tools are the ones you have to pay for. So again, it raises. A. Question of. Equity.
+[00:03:07]但是对于基因人工智能，更强大的工具是你需要花钱购买的。再一次，它增加了。A.问题。股本。
+[00:03:18]Um those who can pay will get the better at all those who can't vote so again who pays for this um should the. Student, pay should. The? Institution pay,
+[00:03:18]那些有能力投票的人会得到更好的待遇那些没有投票权的人那么谁来买单呢应该。学生，应该付钱。的吗?机构支付,
+[00:03:28]These are all questions that, um, we have to address, so move on the main focus, um, which is, um, thinking about all the stakeholders within the higher educator sector.
+[00:03:28]这些都是我们必须解决的问题，所以我们转移到主要的焦点上，也就是，考虑高等教育领域的所有利益相关者。
+[00:03:43]Um, we've, we've already mentioned that we've got sort of students at the center and then teachers as part of this mix, but also the institution, so again, what kind of guidelines are institutions implementing, um,
+[00:03:43]嗯，我们已经提到过，我们在中心有一些学生，然后老师作为这个组合的一部分，还有机构，那么，机构实施什么样的指导方针，嗯，
+[00:03:58]Most are very vague not clear um so this is a sort of gray area we're in at the moment um. So again, as I mentioned before, will institutions pay for this equitable access. Well they ban it.
+[00:03:58]大多数都很模糊，不清楚，所以这是我们目前所处的灰色地带。所以，正如我之前提到的，机构会为这种公平的机会买单吗?他们是禁止的。
+[00:04:13]Um what will happen to students suspected of misusing AI tools um again um This, will.
+[00:04:13]那些被怀疑滥用人工智能工具的学生会怎么样呢?
+[00:04:21]Factor into their sort of academic malpractice um so again if teachers are worried that a student has? Use AI? To.
+[00:04:21]考虑到他们在学术上的不当行为如果老师担心学生有?使用人工智能吗?出现。
+[00:04:31]Write their assignment for them, um, how will the teacher feel this will impact on the future prospects of that student? Their degree? Outcomes um?
+[00:04:31]帮他们写作业，老师会觉得这对学生的未来前景有什么影响?他们的学位吗?结果嗯?
+[00:04:42]And, and, and the issue also is that that at present, AI detection tools are not a hundred percent efficient, and actually can produce a lot of false positives.
+[00:04:42]还有一个问题是，目前，人工智能检测工具并不是百分之百有效，实际上可能会产生很多误报。
+[00:04:53]Which again um we're we're in this gray area as I? Mentioned before? Okay.
+[00:04:53]又一次，我们和我一样处在灰色地带?之前提到的?好吧。
+[00:04:59]So um the the the the next section as I said, is this moving beyond higher education? So.
+[00:04:59]那么，下一部分，正如我所说，这是否超出了高等教育的范畴?所以。
+[00:05:07]Into this, into the world of work, generous A-I will mostly affect students as they enter this ai augmented world because those that are.
+[00:05:07]在这个，在工作的世界里，慷慨的A-I将主要影响学生当他们进入这个人工智能增强的世界，因为那些。
+[00:05:17]In finally you know the moment when they going into which other profession it's going to have some presents um in most professional jobs um These are. Issues that. People.
+[00:05:17]最后，你知道当他们进入其他职业的时候在大多数专业的工作中都会有一些礼物这些是。的问题。人。
+[00:05:29]In those jobs are probably facing right now so one of the issues is this fear of losing your job or changing that job because? There are? Many things? That um?
+[00:05:29]在这些工作中可能面临的问题之一是害怕失去工作或换工作，因为?有吗?很多事情吗?嗯?
+[00:05:40]The technology, or previously technology, has overtaken um the human role, e.g. in sort of? Mass production? In factories?
+[00:05:40]技术，或者以前的技术，已经取代了人类的角色，例如在某种程度上?大规模生产吗?在工厂吗?
+[00:05:49]But AI can do more than that. It can actually do the thinking. It can do things like analyzing data, large amounts of data that perhaps administrators would have done.
+[00:05:49]但人工智能可以做得更多。它实际上可以进行思考。它可以做一些事情，比如分析数据，大量的数据，可能是管理员做的。
+[00:05:59]It can solve problems, things that perhaps lawyers, doctors, people who it's trained very hard and, and, and worked long hours, that the, the the AI talking do for them.
+[00:05:59]它可以解决问题，可能是律师，医生，那些训练有素的人，以及长时间工作的人，人工智能可以为他们解决问题。
+[00:06:13]Very readily So this raises a question whether employees will reduce staff numbers because of this. So not, only, will jobs change.
+[00:06:13]这就引出了一个问题员工是否会因此减少员工数量。因此，不仅仅是工作岗位会发生变化。
+[00:06:22]As a result of AI but jobs may just disappear um and again. Perhaps it could raise the question of employers.
+[00:06:22]作为人工智能的结果，工作可能会一次又一次地消失。也许这会引发雇主的问题。
+[00:06:33]Investing money in AI tools rather than people, rather than human beings.
+[00:06:33]把钱投资于人工智能工具，而不是人，而不是人。
+[00:06:40]Um we can already see customer services industry or many industries with customer services when when you ring up or you try to see try to speak to a human being, you're invariably sent to a robot who actually doesn't.
+[00:06:40]嗯，我们已经看到客户服务行业或许多客户服务行业当你打电话或试图与人交谈时，你总是被送到一个机器人那里，而机器人实际上并没有。
+[00:06:56]Even fully understand what you're trying to say um especially with sort of utility companies and such so again unemployment rates will surely increase.
+[00:06:56]甚至完全理解你想说的尤其是公用事业公司之类的所以失业率肯定会上升。
+[00:07:05]Um people who lose their jobs to AI what were they doing said We will have this sort of huge swath of. The. Population with. Nothing. To do.
+[00:07:05]那些因为人工智能而失去工作的人说我们会有一大片。的。人口。什么都没有。要做的事情。
+[00:07:16]This will impact Saddam on society um as we know it right now. Even teachers are not immune to these changes, as a lot of learning which traditionally went on in the Classroom.
+[00:07:16]这将影响萨达姆对社会的影响，正如我们现在所知道的。即使是教师也不能幸免于这些变化，因为许多学习传统上是在课堂上进行的。
+[00:07:29]Is now happening outside the classroom, so a lot of this sort of machine learning that goes on, um, again, knowledge, access to knowledge, as I mentioned before, can it be obtained quickly through.
+[00:07:29]现在发生在课堂之外，所以很多这样的机器学习正在进行，再一次，知识，知识的获取，正如我之前提到的，可以快速获得。
+[00:07:41]Various AI tools, and even if that knowledge is bias and incorrect, it's fast. It's quick. It's the. Media And that. Is the temptation.
+[00:07:41]各种各样的人工智能工具，即使这些知识是有偏见和不正确的，它也很快。它是快速的。它的。媒体等等。就是诱惑。
+[00:07:49]And so thinking again, also next about skills and training, so, so not everybody has these, the necessary digital tools or skills.
+[00:07:49]再想想，下一个是技能和培训，不是每个人都有这些，必要的数字工具或技能。
+[00:08:00]Or AI literacy to cope with the changes that happening in the workplace, um, what's deemed relevant today may not. Be tomorrow. Um. And again.
+[00:08:00]或者人工智能素养，以应对工作场所发生的变化，嗯，今天被认为相关的东西可能并不重要。是明天。嗯。一次又一次。
+[00:08:11]We we can we can define these as being perishable skills skills that are not valid in in in in the future um so most working people but. However, most working people are very busy.
+[00:08:11]我们可以我们可以把这些定义为易逝的技能这些技能在未来是无效的所以大多数工作人员。然而，大多数工作的人都很忙。
+[00:08:23]Um and having to develop all these necessary skills continually um we can just add to the pressure of of whatever job they're. They're. Doing.
+[00:08:23]不断发展这些必要的技能我们只会增加他们工作的压力。他们。做的事情。
+[00:08:33]And again, so this kind of carries on to the, the role of? Employer.
+[00:08:33]再一次，所以这延续了，角色?雇主。
+[00:08:38]Will there be relevant or necessary, will they, will they provide the, the training, the support that's. Required And. Again we mentioned.
+[00:08:38]是否有相关的或必要的，他们是否会提供培训和支持。和要求。我们再次提到。
+[00:08:49]Um you know some some professions where beyond just using AI there are there there are a lot of sort of upskilling anyway so e.g. in law. In medicine.
+[00:08:49]你知道有些职业除了使用人工智能之外还有很多需要提升的技能比如在法律领域。在医学上。
+[00:09:00]In in in in in many many many sort of um areas of work um so again, it may be left up to the individual. To opt. School themselves but. Then.
+[00:09:00]在很多很多领域的工作中，这可能是留给个人的。自己选择学校，但是。然后。
+[00:09:12]Obtain the knowledge share the knowledge but not everybody has that time or inclination um and people may just get left behind though to get left behind.
+[00:09:12]获得知识，分享知识，但不是每个人都有时间或意愿，人们可能会被抛在后面，尽管被抛在后面。
+[00:09:22]Um again they may lose their jobs and may risk that the meant the point I was mentioning for. So again, whose responsibility is it to give to, to give that knowledge to the work.
+[00:09:22]他们可能会失去工作，可能会冒着我提到的那一点的风险。所以，谁有责任，把这些知识运用到工作中去。
+[00:09:34]Force to support them um should employers make training compulsory um. Will employers invest in this training.
+[00:09:34]强制支持他们，雇主应该强制培训他们。雇主会在培训上投资吗?
+[00:09:45]And who'll do the training will it be government initiated will there be government policy about this um will they support employees financially. Again, depending on which sector of industry you were before the public or the private, there may be two.
+[00:09:45]由谁来做培训是由政府发起的吗政府是否有相关政策他们是否会在经济上支持员工。同样，这取决于你之前所在的行业是公共部门还是私营部门，可能有两个。
+[00:10:00]To your system um and again everything seems to be sort of very we're in the unknown in this because it's only the conversation is only just starting now.
+[00:10:00]对你的系统来说，一切似乎都是未知的，因为这只是对话才刚刚开始。
+[00:10:12]Um so again think about all these issues the the, the impact on an individual's mental health and well being is going to be enormous.
+[00:10:12]再想想所有这些问题，对个人心理健康和幸福的影响将是巨大的。
+[00:10:25]Um you know there's a lot of information around on a technology, especially in the media. It can feel both overwhelming and confusing, especially when you've got big tech companies asking or, calling for. a halt,
+[00:10:25]你知道有很多关于一项技术的信息，尤其是在媒体上。这可能会让人感到不知所措和困惑，尤其是当你有大型科技公司要求或打电话时。停止,
+[00:10:40]In AI development, because they themselves fear the risks that it poses, so begs a question, why are. They. Developing these. Tools.
+[00:10:40]在人工智能的发展中，因为他们自己害怕它带来的风险，所以引出了一个问题，为什么。他们。这些发展。工具。
+[00:10:50]Oh,
+[00:10:50]哦,
+[00:10:50]And as previously stated, there's a lot of unknowns, again, as we said, in the workplace, and again, this is going to increase people's anxiety.
+[00:10:50]就像之前说过的，有很多未知，再一次，就像我们说的，在工作场所，再一次，这会增加人们的焦虑。
+[00:11:00]Um, people may feel they have to work harder longer hours otherwise their job will go to robots um. Each of the factors already mentioned affects the other so all these kind of different points affect the other, so it's kind of these vicials.
+[00:11:00]人们可能会觉得他们必须更努力地工作更长时间，否则他们的工作就会被机器人取代。前面提到的每一个因素都影响着另一个所以所有这些不同的点都影响着另一个，所以这是一种危害。
+[00:11:16]Creating this vicious cycle of of and and the digital divide um so we have you know economic divide. Will have digital divide between those who. Know. And. Those who. Don't.
+[00:11:16]造成了数字鸿沟的恶性循环，所以我们有了经济鸿沟。会有数字鸿沟的人。知道。和。那些。不喜欢。
+[00:11:27]And actually, those who are in the know are more likely to be people in the sort of higher income brackets, working for working sectors where there is support and there is Development.
+[00:11:27]事实上，那些了解情况的人更有可能是高收入阶层的人，在有支持和发展的工作部门工作。
+[00:11:39]Um there is that knowledge base um so again um how will that affect people's relationships their family relationships their friends relationships.
+[00:11:39]这是一个知识基础这将如何影响人们的关系他们的家庭关系，朋友关系。
+[00:11:52]The the the the the the. This issue has to be taken seriously um.
+[00:11:52]The The The The The The。这个问题必须认真对待。
+[00:11:59]So how much how much should employees take responsibility for their employees mental health and wellbeing um. This should be an integral part.
+[00:11:59]那么员工应该为自己的心理健康和幸福承担多少责任。这应该是一个积分部分。
+[00:12:12]Of um employment practice um what measures can they take should they take and then one one issue that again is is is vast in This is. The. Amount of. Energy.
+[00:12:12]在就业实践中他们可以采取什么措施他们应该采取什么措施还有一个问题是这是一个很大的问题。的。数量的。能量。
+[00:12:26]That AI actually consumes, so, again, the environmental impact, so for all of us, and energy security energy risk.
+[00:12:26]人工智能实际上消耗了，所以，再一次，对环境的影响，对我们所有人来说，以及能源安全能源风险。
+[00:12:38]Energy cost is a massive, massive issue at the present time, so if a lot of this sort of energy source that. What is going. Towards AI development.
+[00:12:38]能源成本是目前一个非常非常大的问题，所以如果很多这样的能源。发生了什么?走向人工智能的发展。
+[00:12:49]And AI use or what's left there what is left for for the rest of us so again who pays that price um so I'll, i'll deal with this next in, in more detail. In next week's Talk.
+[00:12:49]人工智能的使用，或者剩下的东西留给我们剩下的东西，那么谁来付出代价呢，我将，我将在下一个，更详细地处理这个问题。在下周的讲座中。
+[00:13:03]So I'm just gonna conclude and summarize everything. I've touched on, some of the benefits of gentive AI higher education, and then moved on to the risks or the problems.
+[00:13:03]所以我要总结一下。我谈到了人工智能高等教育的一些好处，然后谈到了风险或问题。
+[00:13:14]That it poses in in beyond education which is in the workplace um and as I've said we are entering quite uncharted waters um and there are many many unknown.
+[00:13:14]它在教育之外，在工作场所，就像我说过的，我们进入了未知的领域，有很多很多未知的领域。
+[00:13:26]Thank you.
+[00:13:26]谢谢你！

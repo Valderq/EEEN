@@ -1,0 +1,50 @@
+{
+    "lastModifiedBy": {
+        "build": 20240430,
+        "major": 2024,
+        "patch": 4
+    },
+    "reports": [
+        {
+            "items": [
+                {
+                    "description": "",
+                    "module": "ModelerViewer",
+                    "name": "L1=50mm a=1mm g=2mm",
+                    "options": "{\"addOverlay\":true}",
+                    "screenshotFilepath": "952d07024d404633bfff13bc1d821e49\\a4d_66_3__d_473_af0a4eaf36e0efac.png",
+                    "sortkey": 0,
+                    "treePath": "{\"plotSettings\":\"<?xml version=\\\"1.0\\\" encoding=\\\"UTF-8\\\"?>\\n<RememberPlots version=\\\"20200930\\\">\\n  <ModelViewSettings name=\\\"\\\" workplane=\\\"1\\\">\\n    <ViewSettings axes=\\\"1\\\" bbox=\\\"1\\\" wireframe=\\\"0\\\" infotext=\\\"1\\\">\\n      <Camera matrix=\\\"0.458760917 -0.381246984 0.802595377 0 0.128940254 0.922263503 0.36438486 0 -0.879145026 -0.0636808351 0.472260386 0 0 0 0 1\\\" center=\\\"13.8422928 -4.06273556\\\" distance=\\\"2817.10791\\\" scale=\\\"11.1688156\\\"/>\\n      <Cutplane active=\\\"0\\\" normal=\\\"1 0 0\\\" dist=\\\"0\\\" covermode=\\\"HIDE\\\"/>\\n    </ViewSettings>\\n  </ModelViewSettings>\\n</RememberPlots>\\n\",\"treePaths\":[\"Components\"]}",
+                    "uid": "a4d5665325d54732af0a4eaf36e0efac",
+                    "vis3DFilepath": ""
+                },
+                {
+                    "description": "",
+                    "module": "ModelerViewer",
+                    "name": "L1=50mm a=5mm g=2mm",
+                    "options": "{\"addOverlay\":true}",
+                    "screenshotFilepath": "952d07024d404633bfff13bc1d821e49\\_dd44_dbd_b94bee8b9737b9_08__003.png",
+                    "sortkey": 1,
+                    "treePath": "{\"plotSettings\":\"<?xml version=\\\"1.0\\\" encoding=\\\"UTF-8\\\"?>\\n<RememberPlots version=\\\"20200930\\\">\\n  <ModelViewSettings name=\\\"\\\" workplane=\\\"1\\\">\\n    <ViewSettings axes=\\\"1\\\" bbox=\\\"1\\\" wireframe=\\\"0\\\" infotext=\\\"1\\\">\\n      <Camera matrix=\\\"0.458760917 -0.381246984 0.802595377 0 0.128940254 0.922263503 0.36438486 0 -0.879145026 -0.0636808351 0.472260386 0 0 0 0 1\\\" center=\\\"14.1620283 -4.17856359\\\" distance=\\\"2817.10791\\\" scale=\\\"10.9185829\\\"/>\\n      <Cutplane active=\\\"0\\\" normal=\\\"1 0 0\\\" dist=\\\"0\\\" covermode=\\\"HIDE\\\"/>\\n    </ViewSettings>\\n  </ModelViewSettings>\\n</RememberPlots>\\n\",\"treePaths\":[\"Components\"]}",
+                    "uid": "2dd445dbd1b94bee8b9737b910821003",
+                    "vis3DFilepath": ""
+                },
+                {
+                    "description": "",
+                    "module": "ModelerViewer",
+                    "name": "L1=50mm a=10mm g=2mm",
+                    "options": "{\"addOverlay\":true}",
+                    "screenshotFilepath": "952d07024d404633bfff13bc1d821e49\\acd_7bcd_89048_e970__e3b393aeeb0.png",
+                    "sortkey": 2,
+                    "treePath": "{\"plotSettings\":\"<?xml version=\\\"1.0\\\" encoding=\\\"UTF-8\\\"?>\\n<RememberPlots version=\\\"20200930\\\">\\n  <ModelViewSettings name=\\\"\\\" workplane=\\\"1\\\">\\n    <ViewSettings axes=\\\"1\\\" bbox=\\\"1\\\" wireframe=\\\"0\\\" infotext=\\\"1\\\">\\n      <Camera matrix=\\\"0.458760917 -0.381246984 0.802595377 0 0.128940254 0.922263503 0.36438486 0 -0.879145026 -0.0636808351 0.472260386 0 0 0 0 1\\\" center=\\\"5.44747639 -7.88938904\\\" distance=\\\"2817.10791\\\" scale=\\\"12.2060061\\\"/>\\n      <Cutplane active=\\\"0\\\" normal=\\\"1 0 0\\\" dist=\\\"0\\\" covermode=\\\"HIDE\\\"/>\\n    </ViewSettings>\\n  </ModelViewSettings>\\n</RememberPlots>\\n\",\"treePaths\":[\"Components\"]}",
+                    "uid": "acd17bcd1890481e97055e3b393aeeb0",
+                    "vis3DFilepath": ""
+                }
+            ],
+            "name": "Lab2-1a",
+            "pathName": "952d07024d404633bfff13bc1d821e49",
+            "uid": "952d07024d404633bfff13bc1d821e49"
+        }
+    ],
+    "version": 20200902
+}

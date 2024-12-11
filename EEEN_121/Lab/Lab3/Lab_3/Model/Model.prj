@@ -1,0 +1,13 @@
+{
+   "Author": "Swq",
+   "Comment": "",
+   "Last Problem Type": "High Frequency",
+   "Last Solver Type": "HF Time Domain",
+   "Last Solver Type Abb": "t",
+   "Mesh Cells": "",
+   "Mesh Type": "Hexahedral",
+   "Modeler Unique ID": "5:lab_3.cst?86deb4fbd01d1907494d46d666966b57?10244:numberofparameters=6:port=1>mode=1>zre=0>zim=0:::g?pec_thick?width_microstrip?substrate_thick?l?w",
+   "ProjectVersion": "'# MWS Version: Version 2024.4 - Apr 30 2024 - ACIS 33.0.1 - Learning Edition",
+   "Results": "Unavailable",
+   "Version": "3"
+}
