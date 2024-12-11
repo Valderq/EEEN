@@ -1,0 +1,17 @@
+
+hpeesofsim (*) 595.shp Oct 31 2023, MINT version 5
+    (64-bit windows built: Tue Oct 31, 2023 22:23:19 +0000)
+
+
+***** Simulation started at Wed Nov 13 10:28:11 2024
+      Running on host: "E-C10EA1A011063"
+      In Directory: "P:\lab1part2example2_wrk\data"
+      Process ID: 3764
+
+
+SP SP1[1] <lab1part2example2_lib:cell_1:schematic>   freq=(1 MHz->100 MHz)
+
+
+Resource usage:
+  Total stopwatch time     =     1.05 seconds.
+

@@ -1,0 +1,27 @@
+Post-processing Logfile 
+
+----------------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       ns
+
+----------------------------------------------------------------------------------------
+
+Template based post-processing started at: 2024-11-10 21:59:34
+
+  Evaluating 'S2,1_0D_xAtGlobalYMin': 0.047 s
+
+  Total time: 0 s  ( = 0 h, 0 m, 0 s )
+
+Template based post-processing finished at: 2024-11-10 21:59:34
+----------------------------------------------------------------------------------------
+Template based post-processing started at: 2024-11-10 22:03:09
+
+  Evaluating 'S2,1_0D_xAtGlobalYMin': 0.18 s
+
+  Total time: 0 s  ( = 0 h, 0 m, 0 s )
+
+Template based post-processing finished at: 2024-11-10 22:03:09
+----------------------------------------------------------------------------------------
