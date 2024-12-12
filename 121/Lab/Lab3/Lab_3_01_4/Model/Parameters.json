@@ -1,0 +1,35 @@
+{
+    "parameters": [
+        {
+            "expr": "4.08",
+            "name": "W",
+            "value": "4.08"
+        },
+        {
+            "expr": "3.08",
+            "name": "L",
+            "value": "3.08"
+        },
+        {
+            "expr": "1.54",
+            "name": "G",
+            "value": "1.54"
+        },
+        {
+            "expr": "0.2",
+            "name": "Micro_width",
+            "value": "0.2"
+        },
+        {
+            "expr": "0.25",
+            "name": "Sub_thick",
+            "value": "0.25"
+        },
+        {
+            "expr": "0.012",
+            "name": "PEC_thick",
+            "value": "0.012"
+        }
+    ],
+    "version": 1
+}
