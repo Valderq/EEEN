@@ -2,7 +2,7 @@
 [start]hidden_objects
 [end]hidden_objects
 [start]draw_workplane
-true
+false
 [end]draw_workplane
 [start]draw_bounding_box
 true
@@ -159,12 +159,68 @@ Port.Delete "1"
 0
 [end]delete_solids
 [end]undo_item
+[start]undo_item
+[start]block_index
+29
+[end]block_index
+[start]command
+[end]command
+[start]content
+
+Solid.Delete "component1:Substrate"
+
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+32
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+33
+[end]block_index
+[start]command
+
+'@ define port: 1
+ (undo)
+[end]command
+[start]content
+Port.Delete "1"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
 [end]history_fast_undo
 [start]unique_ids
 [start]19
 '[UNIQUE_ID]port$port1|c096e767-ca27-4f2f-b744-d7ccd988ea40[/UNIQUE_ID]
 
 [end]19
+[start]33
+'[UNIQUE_ID]port$port1|4a2fc08f-260a-417a-8a3e-37ab988afcaf[/UNIQUE_ID]
+
+[end]33
 [end]unique_ids
 [start]PortAndLumpedLabelState
 [start]ShowLabels

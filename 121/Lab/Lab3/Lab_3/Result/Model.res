@@ -1,5 +1,5 @@
 MWS Result File Version 20150206
-size=i:7
+size=i:10
 
 type=s:HIDDENITEM
 problemclass=s::8:1000
@@ -66,4 +66,34 @@ lifetime=s:persistent
 result=s:0
 treepath=s:Excitation Signals\default
 files=s:signal_default.sig
+
+type=s:XYSIGNAL
+subtype=s:user
+problemclass=s::8:1000
+visibility=s:visible
+creation=s:internal
+lifetime=s:rebuild
+result=s:1
+treepath=s:1D Results\Adaptive Meshing\Solvertime
+files=s:adapt_solvertime.sig
+
+type=s:XYSIGNAL
+subtype=s:user
+problemclass=s::8:1000
+visibility=s:visible
+creation=s:internal
+lifetime=s:rebuild
+result=s:1
+treepath=s:1D Results\Adaptive Meshing\Meshcells
+files=s:adapt_meshcells.sig
+
+type=s:XYSIGNAL
+subtype=s:user
+problemclass=s::8:1000
+visibility=s:visible
+creation=s:internal
+lifetime=s:rebuild
+result=s:1
+treepath=s:1D Results\Adaptive Meshing\Delta S
+files=s:adapt_deltaS.sig
 
