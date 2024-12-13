@@ -1,4 +1,4 @@
-Model, Learning_rate, Hidden_size, Test_acc
+Model,Learning_rate,Hidden_size,Test_acc
 1,0.02,10,92.74
 2,0.02,12,93.61
 3,0.02,14,94.15
