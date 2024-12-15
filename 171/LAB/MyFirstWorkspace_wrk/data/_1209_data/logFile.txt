@@ -1,0 +1,22 @@
+
+hpeesofsim (*) 595.shp Oct 31 2023, MINT version 5
+    (64-bit windows built: Tue Oct 31, 2023 22:23:19 +0000)
+
+
+***** Simulation started at Mon Dec  9 13:30:20 2024
+      Running on host: "E-C10EA1A011047"
+      In Directory: "P:\MyFirstWorkspace_wrk\data"
+      Process ID: 1100
+
+Warning detected by hpeesofsim during netlist flattening.
+    Touchstone file parser warning:
+    Line - 18, Column - 50 : expected end-of-line termination before end-of-file
+    File: `P:/MyFirstWorkspace_wrk/data/FLC317MG-4.s2p'.
+
+
+SP SP1[1] <MyFirstWorkspace_lib:1209:schematic>   freq=(2 GHz->6 GHz)
+
+
+Resource usage:
+  Total stopwatch time     =    14.95 seconds.
+

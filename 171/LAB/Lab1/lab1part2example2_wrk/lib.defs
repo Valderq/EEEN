@@ -1,4 +1,0 @@
-INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
-INCLUDE $HPEESOF_DIR/oalibs/dsp.defs
-DEFINE lab1part2example2_lib P:lab1part2example2_wrk/lab1part2example2_lib
-ASSIGN lab1part2example2_lib libMode shared

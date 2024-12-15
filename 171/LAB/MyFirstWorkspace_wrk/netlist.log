@@ -1,0 +1,63 @@
+; Top Design: "MyFirstWorkspace_lib:cell_11:schematic"
+; Netlisted using Hierarchy Policy: "Standard"
+
+Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="MyFirstWorkspace_lib:cell_11:schematic" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
+C:C2  V1 0 C=Cpar nF 
+C:C1  Vin 0 C=Cpar nF 
+L:L1  Vin V1 L=Lser uH Noise=yes  
+R:R2  0 Vout R=Zload Ohm Noise=yes 
+V_Source:SRC1  N__2 0 Type="V_AC" Vdc=0.0 V Vac=polar(1,0) V Freq=freq V_Noise=0 uV SaveCurrent=1 
+R:R1  N__2 Vin R=Zin Ohm Noise=yes 
+AC:AC1 CalcNoise=no SortNoise=0 IncludePortNoise=yes BandwidthForNoise=1 Hz FreqConversion=no UseFiniteDiff=no StatusLevel=2 OutputBudgetIV=no DevOpPtLevel=0 \
+OutputPlan="AC1_Output" Freq=40 kHz 
+
+OutputPlan:AC1_Output \
+      Type="Output" \
+      UseNodeNestLevel=yes \
+      NodeNestLevel=2 \
+      UseEquationNestLevel=yes \
+      EquationNestLevel=2 \
+      UseSavedEquationNestLevel=yes \
+      SavedEquationNestLevel=2 \
+      UseDeviceCurrentNestLevel=no \
+      DeviceCurrentNestLevel=0 \
+      DeviceCurrentDeviceType="All" \
+      DeviceCurrentSymSyntax=yes \
+      UseCurrentNestLevel=yes \
+      CurrentNestLevel=999 \
+      UseDeviceVoltageNestLevel=no \
+      DeviceVoltageNestLevel=0 \
+      DeviceVoltageDeviceType="All"
+
+
+Zload=9999999
+Zin=250
+Lser=300
+Cpar=2.4
+C:C3  V2 0 C=Cpar nF 
+C:C4  V1 0 C=Cpar nF 
+L:L2  V1 V2 L=Lser uH Noise=yes  
+C:C5  V3 0 C=Cpar nF 
+C:C6  V2 0 C=Cpar nF 
+L:L3  V2 V3 L=Lser uH Noise=yes  
+C:C7  V4 0 C=Cpar nF 
+C:C8  V3 0 C=Cpar nF 
+L:L4  V3 V4 L=Lser uH Noise=yes  
+C:C9  V5 0 C=Cpar nF 
+C:C10  V4 0 C=Cpar nF 
+L:L5  V4 V5 L=Lser uH Noise=yes  
+C:C11  V5 0 C=Cpar nF 
+C:C12  V6 0 C=Cpar nF 
+L:L6  V6 V5 L=Lser uH Noise=yes  
+C:C13  V6 0 C=Cpar nF 
+C:C14  V7 0 C=Cpar nF 
+L:L7  V7 V6 L=Lser uH Noise=yes  
+C:C15  V7 0 C=Cpar nF 
+C:C16  V8 0 C=Cpar nF 
+L:L8  V8 V7 L=Lser uH Noise=yes  
+C:C17  V8 0 C=Cpar nF 
+C:C18  V9 0 C=Cpar nF 
+L:L9  V9 V8 L=Lser uH Noise=yes  
+C:C19  V9 0 C=Cpar nF 
+C:C20  Vout 0 C=Cpar nF 
+L:L10  Vout V9 L=Lser uH Noise=yes  

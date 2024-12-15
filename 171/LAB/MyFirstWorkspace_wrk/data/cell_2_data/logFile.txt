@@ -1,0 +1,18 @@
+
+hpeesofsim (*) 610.shp Aug 20 2024, MINT version 5
+    (64-bit windows built: Tue Aug 20, 2024 21:40:41 +0000)
+
+
+***** Simulation started at Sun Dec 15 14:18:56 2024
+      Running on host: "RawW-Lap-4090"
+      In Directory: "C:\Users\Ryen\Project\Valderq_Study\EEEN\171\LAB\MyFirstWorkspace_wrk\data"
+      Process ID: 14272
+
+
+
+TRAN Tran1[1] <MyFirstWorkspace_lib:cell_2:schematic>   time=(0 s->100 us)
+
+
+Resource usage:
+  Total stopwatch time     =     0.44 seconds.
+

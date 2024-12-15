@@ -1,0 +1,17 @@
+
+hpeesofsim (*) 610.shp Aug 20 2024, MINT version 5
+    (64-bit windows built: Tue Aug 20, 2024 21:40:41 +0000)
+
+
+***** Simulation started at Sun Dec 15 14:21:37 2024
+      Running on host: "RawW-Lap-4090"
+      In Directory: "C:\Users\Ryen\Project\Valderq_Study\EEEN\171\LAB\MyFirstWorkspace_wrk\data"
+      Process ID: 17620
+
+
+SP SP1[1] <MyFirstWorkspace_lib:lab1part2:schematic>   freq=(200 MHz->600 MHz)
+
+
+Resource usage:
+  Total stopwatch time     =     0.48 seconds.
+
