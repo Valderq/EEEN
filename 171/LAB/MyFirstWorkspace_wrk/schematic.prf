@@ -4,7 +4,7 @@ pathEndCap 2
 pathLayerName default
 textFontName Arial For CAE
 textPoint 5
-textJustification 10
+textJustification 34
 textAngle 0.000000
 textAbsolute 0
 instNameLayer 6
@@ -26,7 +26,7 @@ scaleX 1.000000
 scaleY 1.000000
 toArcRadius 0.300000
 miterVertexLength 1.000000
-portOrientation 0.000000
+portOrientation 10000.000000
 plottingDepth 10
 bboxColor 0
 selectColor 0

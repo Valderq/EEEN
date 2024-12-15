@@ -1,22 +1,22 @@
 
-hpeesofsim (*) 595.shp Oct 31 2023, MINT version 5
-    (64-bit windows built: Tue Oct 31, 2023 22:23:19 +0000)
+hpeesofsim (*) 610.shp Aug 20 2024, MINT version 5
+    (64-bit windows built: Tue Aug 20, 2024 21:40:41 +0000)
 
 
-***** Simulation started at Mon Nov 25 11:43:30 2024
-      Running on host: "E-C10EA1A033073"
-      In Directory: "P:\MyFirstWorkspace_wrk\data"
-      Process ID: 14144
+***** Simulation started at Sun Dec 15 20:57:32 2024
+      Running on host: "RawW-Lap-4090"
+      In Directory: "C:\Users\Ryen\Project\Valderq_Study\EEEN\171\LAB\MyFirstWorkspace_wrk\data"
+      Process ID: 16648
 
 Warning detected by hpeesofsim during netlist flattening.
     Touchstone file parser warning:
     Line - 18, Column - 50 : expected end-of-line termination before end-of-file
-    File: `P:/MyFirstWorkspace_wrk/data/FLC317MG-4.s2p'.
+    File: `C:/Users/Ryen/Project/Valderq_Study/EEEN/171/LAB/MyFirstWorkspace_wrk/data/FLC317MG-4.s2p'.
 
 
 SP SP1[1] <MyFirstWorkspace_lib:lab2:schematic>   freq=(2 GHz->6 GHz)
 
 
 Resource usage:
-  Total stopwatch time     =     4.82 seconds.
+  Total stopwatch time     =     0.54 seconds.
 
